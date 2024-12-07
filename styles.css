@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #00ffff;
-  --background-color: #0a0a0a;
+  --background-color: #0a0a0a; 
   --text-color: #ffffff;
 }
 
@@ -84,6 +84,12 @@ h2 {
 p {
   font-size: 1rem;
   line-height: 1.6;
+}
+
+footer {
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: center  
 }
 
 @media screen and (min-width: 768px) {
